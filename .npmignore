@@ -1,0 +1,4 @@
+.github
+.vagrant
+node_modules
+Vagrantfile
