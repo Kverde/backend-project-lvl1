@@ -4,4 +4,4 @@
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/bed0de34dfb7c405f71b/maintainability)](https://codeclimate.com/github/Kverde/backend-project-lvl1/maintainability)
 
-![example workflow](https://github.com/kverde/backend-project-lvl1/actions/workflows/node.js/badge.svg)
+![example workflow](https://github.com/kverde/backend-project-lvl1/actions/workflows/linter.yml/badge.svg)
