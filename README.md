@@ -21,3 +21,7 @@
 ## GCD game
 
 [![asciicast](https://asciinema.org/a/Zhm4HFNkBeEyqBII1EtbdnpP8.png)](https://asciinema.org/a/Zhm4HFNkBeEyqBII1EtbdnpP8)
+
+## Prime game
+
+[![asciicast](https://asciinema.org/a/ZNdwGLLJA5VVVxfj4sqF67374.png)](https://asciinema.org/a/ZNdwGLLJA5VVVxfj4sqF67374)

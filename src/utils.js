@@ -19,3 +19,21 @@ export const getSeq = (start, length, step) => {
 
   return res;
 };
+
+export const isPrime = (n) => {
+  if (n < 2) {
+    return false;
+  }
+
+  for (let i = 3; i <= n / 2; i += 1) {
+    if (n % i === 0) {
+      return false;
+    }
+  }
+
+  return true;
+};
+
+export const isEven = (num) => num % 2 === 0;
+
+export const boolToYesNo = (bool) => (bool ? 'yes' : 'no');
