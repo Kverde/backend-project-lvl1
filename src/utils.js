@@ -9,3 +9,13 @@ export const gcd = (a, b) => {
 
   return gcd(b, a % b);
 };
+
+export const getSeq = (start, length, step) => {
+  const res = [];
+
+  for (let i = 0; i < length; i += 1) {
+    res.push(start + step * i);
+  }
+
+  return res;
+};

@@ -17,3 +17,7 @@
 ## GCD game
 
 [![asciicast](https://asciinema.org/a/pJa3k8JCjH6eKVqJ9TNTEMgsF.png)](https://asciinema.org/a/pJa3k8JCjH6eKVqJ9TNTEMgsF)
+
+## GCD game
+
+[![asciicast](https://asciinema.org/connect/f307af3a-32de-4cdd-8aed-2392f673fa71.png)](https://asciinema.org/connect/f307af3a-32de-4cdd-8aed-2392f673fa71)
