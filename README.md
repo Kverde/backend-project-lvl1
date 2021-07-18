@@ -13,3 +13,7 @@
 ## Calc game
 
 [![asciicast](https://asciinema.org/a/qoDAZ2Xrzeo6m9KRgnykaRCy2.png)](https://asciinema.org/a/qoDAZ2Xrzeo6m9KRgnykaRCy2)
+
+## GCD game
+
+[![asciicast](https://asciinema.org/a/pJa3k8JCjH6eKVqJ9TNTEMgsF.png)](https://asciinema.org/a/pJa3k8JCjH6eKVqJ9TNTEMgsF)
