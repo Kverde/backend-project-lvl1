@@ -1,6 +1,6 @@
-import { print } from './cli.js';
-import { getRandomInt, isEven, boolToYesNo } from './utils.js';
-import { startGame } from './index.js';
+import { print } from '../cli.js';
+import { getRandomInt, isEven, boolToYesNo } from '../utils.js';
+import { startGame } from '../index.js';
 
 const describeEvenGame = () => {
   print('Answer "yes" if the number is even, otherwise answer "no".');

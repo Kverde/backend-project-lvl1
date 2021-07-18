@@ -1,6 +1,6 @@
-import { print } from './cli.js';
-import { getRandomInt, isPrime, boolToYesNo } from './utils.js';
-import { startGame } from './index.js';
+import { print } from '../cli.js';
+import { getRandomInt, isPrime, boolToYesNo } from '../utils.js';
+import { startGame } from '../index.js';
 
 const describeEvenGame = () => {
   print('Answer "yes" if given number is prime. Otherwise answer "no".');

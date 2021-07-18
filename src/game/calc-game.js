@@ -1,6 +1,6 @@
-import { print } from './cli.js';
-import { getRandomInt } from './utils.js';
-import { startGame } from './index.js';
+import { print } from '../cli.js';
+import { getRandomInt } from '../utils.js';
+import { startGame } from '../index.js';
 
 const describeEvenGame = () => {
   print('What is the result of the expression?');

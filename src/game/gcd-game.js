@@ -1,6 +1,6 @@
-import { print } from './cli.js';
-import { getRandomInt, gcd } from './utils.js';
-import { startGame } from './index.js';
+import { print } from '../cli.js';
+import { getRandomInt, gcd } from '../utils.js';
+import { startGame } from '../index.js';
 
 const describeEvenGame = () => {
   print('Find the greatest common divisor of given numbers.');

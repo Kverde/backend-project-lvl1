@@ -1,6 +1,6 @@
-import { print } from './cli.js';
-import { startGame } from './index.js';
-import { getRandomInt, getSeq } from './utils.js';
+import { print } from '../cli.js';
+import { startGame } from '../index.js';
+import { getRandomInt, getSeq } from '../utils.js';
 
 const describeEvenGame = () => {
   print('What number is missing in the progression?');
